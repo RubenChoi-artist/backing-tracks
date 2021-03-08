@@ -10,15 +10,14 @@
  guitar-position-diatonic-fret5.jpeg : guitar fingering position for C key (diatonic scale)
  piano-position-diatonic.jpeg :  piano scale
 
-#Tutorial on Youtube
+#Tutorial (youtube)
 
  https://youtu.be/V98rVyfDK3g
 
-#Check out Ruben Choi's music
+#Links (music)
  
- Apple Music (USA) https://music.apple.com/us/search?at=1000l4QJ&ct=402&itscg=10000&itsct=402x&term=ruben%20choi
- Melon (Korea) https://www.melon.com/album/detail.htm?albumId=10473820
-
- Otherwise, please search by 'Ruben Choi' on your music streaming site.
+ Apple Music:  https://music.apple.com/us/artist/ruben-choi/1526789858
+ 
+ 멜론:   https://www.melon.com/album/detail.htm?albumId=10473820
 
 
